@@ -1,0 +1,4 @@
+region,temperature,rainfall,soil_type,crop
+UP,32,120,loamy,wheat
+Punjab,30,100,clay,rice
+Maharashtra,35,80,sandy,maize
